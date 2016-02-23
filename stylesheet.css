@@ -1,0 +1,218 @@
+@charset "utf-8"; 
+
+.main
+{
+	color: #333333;
+	font-family: Helvetica;
+	font-size: 13px;
+	font-weight: normal;
+} 
+.main a:link
+{
+	color: #333333;
+}
+.main a:visited
+{
+	color: #333333;
+} 
+.main a:hover
+{
+	color: #666666;
+} 
+.main a:active
+{
+	color: #333333;
+} 
+
+.navbar
+{
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 0.85em;
+} 
+.navbar a:link { color: #FFFF00; }
+.navbar a:visited { color: #9966CC; }
+.navbar a:hover { color: #CCCCCC; }
+.navbar a:active { color: #FF0000; }
+
+.heading
+{
+	color: #333333;
+	font-family: Helvetica;
+	font-size: 19px;
+	font-weight: bold;
+	text-decoration: none;
+} 
+.heading a:link { color: #FFFF00; }
+.heading a:visited { color: #9966CC; }
+.heading a:hover { color: #CCCCCC; }
+.heading a:active { color: #FF0000; }
+
+.smallheading
+{
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+	font-weight: bold;
+} 
+.smallheading a:link
+{
+	color: #333333;
+} 
+.smallheading a:visited
+{
+	color: #333333;
+} 
+.smallheading a:hover
+{
+	color: #666666;
+}
+.smallheading a:active
+{
+	color: #333333;
+} 
+
+.smallheading
+{
+	color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.whiteheading
+{
+	color: #FFFFFF;
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: bold;
+} 
+.whiteheading a:link { color: #FFFF00; } 
+.whiteheading a:visited { color: #9966CC; } 
+.whiteheading a:hover { color: #CCCCCC; }
+.whiteheading a:active { color: #FF0000; } 
+
+.maptext
+{
+	color: #333333;
+	font-family: Helvetica;
+	font-size: 11px;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: italic;
+	line-height: 1.2em;
+} 
+.maptext a:link
+{
+	color: #333333;
+} 
+.maptext a:visited
+{
+	color: #333333;
+} 
+.maptext a:hover
+{
+	color: #666666;
+}
+.maptext a:active
+{
+	color: #333333;
+} 
+.greenhead
+{
+	color: #060;
+	font-family: Helvetica;
+	font-size: 19px;
+	font-weight: bold;
+	text-decoration: none;
+} 
+.greenhead a:link
+{
+	text-decoration: none;
+	color: #060;
+} 
+.greenhead a:visited
+{
+	text-decoration: none;
+	color: #060;
+} 
+.greenhead a:hover
+{
+	text-decoration: underline;
+	color: #060;
+}
+.greenhead a:active
+{
+	text-decoration: underline;
+	color: #060;
+} 
+.recycle
+{
+	color: #060;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16.5px;
+	font-weight: bold;
+	text-decoration: none;
+	font-variant: small-caps;
+} 
+.recycle a:link
+{
+	text-decoration: none;
+	color: #060;
+} 
+.recycle a:visited { text-decoration: none; color: #060; }
+.recycle a:hover
+{
+	text-decoration: underline;
+	color: #063;
+}
+.recycle a:active { text-decoration: underline; color: #060; } 
+
+.redheading
+{
+	color: #900;
+	font-family: Helvetica;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+} 
+.redheading a:link
+{
+	color: #900;
+} 
+.redheading a:visited
+{
+	color: #900;
+} 
+.redheading a:hover
+{
+	color: #900;
+}
+.redheading a:active
+{
+	color: #900;
+} 
+.test
+{
+	color: #333333;
+	font-family: Helvetica;
+	font-size: 16.5px;
+	font-weight: normal;
+	line-height: 1.5em;
+} 
+.test a:link
+{
+	color: #333333;
+}
+.test a:visited
+{
+	color: #333333;
+} 
+.test a:hover
+{
+	color: #666666;
+} 
+.test a:active
+{
+	color: #333333;
+} 

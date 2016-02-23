@@ -1,0 +1,212 @@
+body
+{
+    /*
+    background-attachment: fixed;
+    background-color: #003366;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    */
+    background-color: #003366;
+    font-size: 13px;
+    font-family: Helvetica;
+    font-weight: normal;
+    margin: 0;
+}
+
+h1, h2
+{
+    background-color: #003366;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 0px;
+}
+
+h2
+{
+    font-size: 20px;
+}
+
+div#wrapper
+{
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 100%;
+    width: 850px;
+}
+
+div#menu
+{
+    background-color: #999999;
+    height: 37.5px;
+}
+
+div#breadcrumb, div#page-content
+{
+    background-color: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div#breadcrumb:after
+{
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0px;
+    visibility: hidden;
+}
+
+div#page-content
+{
+    padding-top: 30px;
+}
+
+div.left
+{
+    float: left;
+    width: 50%;
+}
+
+div.right
+{
+    float: right;
+    width: 49%;
+}
+
+div.left p, div.right p
+{
+    margin-bottom: 0px;
+}
+
+div.left ul, div.right ul
+{
+    /* list-style-type: none; */
+    margin-top: 0px;
+}
+
+div#page-content p
+{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+div#page-content hr
+{
+    border: none;
+    border-top: 1px solid #CCCCCC;
+}
+
+div#page-content form label
+{
+    float: left;
+    margin-right: 15px;
+    text-align: right;
+    width: 100px;
+}
+
+div#page-content form input
+{
+    width: 70%;
+}
+
+div#page-content form textarea
+{
+    height: 250px;
+    width: 70%;
+}
+
+div#page-content form a
+{
+}
+
+div#page-content:after
+{
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0px;
+    visibility: hidden;
+}
+
+div#footer
+{
+    background-color: #FFFFFF;
+    margin-top: 0px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+div#footer p
+{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.italic
+{
+    font-style: italic;
+}
+
+.strong
+{
+    font-weight: bold;
+}
+
+.tab
+{
+    margin-bottom: 0px;
+    margin-left: 25px;
+    margin-top: 0px;
+}
+
+.to-top-link
+{
+    display: block;
+    text-align: center;
+}
+
+ul.no-style
+{
+    list-style-type: none;
+}
+
+div.clear
+{
+    clear: both;
+}
+
+/* Additional styles */
+div#left-menu
+{
+    border-right: 1px solid #CCCCCC;
+    float: left;
+    width: 25%;
+}
+
+div#left-menu ul
+{
+    list-style-type: none;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+div#left-menu ul li
+{
+    background-image: url("bullet.gif");
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+div#inner-content
+{
+    float: right;
+    width: 74%;
+}
